@@ -1,0 +1,1 @@
+const s={dashboard:"Дашборд",statistics:"Статистика",offers:"Офферы",campaigns:"Потоки",tools:"Инструменты",finance:"Финансы",support:"Поддержка",admin:"Админка",webmaster:"Вебмастер",advertiser:"Рекламодатель",settings:"Настройки",users:"Пользователи"},t={sections:s};export{t as default,s as sections};
