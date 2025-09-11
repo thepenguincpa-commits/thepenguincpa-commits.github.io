@@ -1,1 +1,0 @@
-import{R as o,r as t}from"./index-Btd61CbF.js";function c(s,u=[]){const[e,n]=o.useState(s),r=t.useRef(!1);return t.useEffect(()=>{r.current?n(s()):r.current=!0},[...u]),t.useEffect(()=>()=>{typeof e.dispose=="function"&&e.dispose()},[e]),e}export{c as u};
