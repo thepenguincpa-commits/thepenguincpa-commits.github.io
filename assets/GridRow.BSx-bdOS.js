@@ -1,1 +1,0 @@
-import{r as s,j as t}from"./index.D0ZL9dlq.js";import{R as a}from"./row.BNxq_Flf.js";const e=[{sm:8,md:12,lg:16,xl:24},24],i=s.forwardRef(function(r,o){return t.jsx(a,{ref:o,gutter:e,...r})});i.displayName="ForwardRef shared/ui/(GridRow)";export{i as G};
