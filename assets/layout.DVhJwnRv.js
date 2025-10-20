@@ -1,1 +1,0 @@
-const s={dashboard:"Dashboard",statistics:"Statistics",offers:"Offers",campaigns:"Campaigns",tools:"Tools",finance:"Finance",support:"Support",admin:"Admin",webmaster:"Webmaster",advertiser:"Advertiser",settings:"Settings",users:"Users"},t={sections:s};export{t as default,s as sections};

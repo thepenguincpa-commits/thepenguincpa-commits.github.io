@@ -1,0 +1,1 @@
+import{o,j as s}from"./index.WsYO2dy-.js";const e=o(function(){return s.jsxs("div",{children:[s.jsx("h1",{children:"Postbacks Configuration"}),s.jsx("p",{children:"Configure server-to-server notifications"})]})}),n=e;export{n as component};

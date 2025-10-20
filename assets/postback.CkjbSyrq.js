@@ -1,1 +1,0 @@
-const o={urlLabel:"Постбэк URL",urlPlaceholder:"Постбэк URL",conversionsLabel:"Статусы для отправки",conversionsPlaceholder:"Выберите статусы",payoutChangeLabel:"Постбэк при смене payout-а"},e={form:o};export{e as default,o as form};

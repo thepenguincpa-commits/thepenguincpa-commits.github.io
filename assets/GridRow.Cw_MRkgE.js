@@ -1,1 +1,0 @@
-import{r as s,j as a}from"./index.B-zO2jcy.js";import{R as e}from"./row.ClGDsWbn.js";const R={xs:8,sm:12,md:16,lg:20,xl:24,xxl:32},d={xs:24,sm:24,md:24,lg:24,xl:24,xxl:32},i=s.forwardRef(function({hGutter:r=R,vGutter:o=d,...x},t){const m=s.useMemo(()=>[r,o],[r,o]);return a.jsx(e,{ref:t,gutter:m,...x})});i.displayName="ForwardRef shared/ui/(GridRow)";export{i as G};

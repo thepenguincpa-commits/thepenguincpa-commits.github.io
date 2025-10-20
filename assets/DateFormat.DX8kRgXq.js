@@ -1,0 +1,1 @@
+import{o as r,u as n,I as s}from"./index.WsYO2dy-.js";const m=r(function({value:e,...a}){const o=n().locale,t=new Date(e);return isNaN(t.getTime())?(s||console.warn("DateFormat: value is not a number",e),t.toString()):new Intl.DateTimeFormat(o.code,a).format(t)});m.displayName="ForwardRef shared/ui/(DateFormat)";export{m as D};
