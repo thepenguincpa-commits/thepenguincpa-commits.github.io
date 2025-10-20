@@ -1,0 +1,1 @@
+import{o as t}from"./index.CJpzWARr.js";import{u as a}from"./useTranslation.D1-YSIqG.js";function n(o,r){return o(r.toUpperCase())}const s=t(function(r){const{t:e}=a("countries");return n(e,r.code)});s.displayName="ForwardRef shared/ui/(CountryName)";export{s as C,n as g};

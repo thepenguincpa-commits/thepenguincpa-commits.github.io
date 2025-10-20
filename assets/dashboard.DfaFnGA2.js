@@ -1,1 +1,0 @@
-import{o as s,j as r}from"./index.WsYO2dy-.js";const e=s(function(){return r.jsxs("div",{children:[r.jsx("h1",{children:"Advertiser Dashboard"}),r.jsx("p",{children:"Overview of your offers and statistics"})]})}),i=e;export{i as component};

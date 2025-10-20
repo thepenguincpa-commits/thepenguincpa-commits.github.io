@@ -1,0 +1,1 @@
+import{o as n,j as e}from"./index.CJpzWARr.js";const s=n(function(){return e.jsxs("div",{children:[e.jsx("h1",{children:"Finance"}),e.jsx("p",{children:"Balance, deposits, and payment history"})]})}),i=s;export{i as component};
